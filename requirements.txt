@@ -1,0 +1,5 @@
+certifi
+Flask
+pymongo
+bcrypt
+flask_socketio
